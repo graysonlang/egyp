@@ -1,0 +1,10 @@
+{
+  "name": "egyp",
+  "version": "0.0.1",
+  "description": "enhanced gyp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/graysonlang/egyp.git"
+  },
+  "license": "BSD-3-Clause"
+}

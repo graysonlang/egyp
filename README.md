@@ -1,4 +1,5 @@
-GYP can Generate Your Projects.
-===================================
+#eGYP - enhanced/extended/enriched/extricated/extracted/... version of GYP
 
-Documents are available at [gyp.gsrc.io](https://gyp.gsrc.io), or you can check out ```md-pages``` branch to read those documents offline.
+The goal of this project is to streamline the use of GYP as well as fix some of the glaring (especially Windows) bugs.
+
+Original GYP documentation is available at [gyp.gsrc.io](https://gyp.gsrc.io)
